@@ -32,8 +32,8 @@
 
 <h3 align="left"> GitHub Stats </h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=K2R-krn&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K2R-krn&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=K2R-krn&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K2R-krn&layout=compact&theme=midnight-purple&hide_border=true" alt="Top Languages" />
 </p>
 
 
