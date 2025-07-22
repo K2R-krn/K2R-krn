@@ -35,11 +35,9 @@
 
 
 <h3 align="left"> GitHub Stats </h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=k2r-krn&show_icons=true&locale=en&layout=compact" alt="k2r-krn" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=k2r-krn&" alt="k2r-krn" /></p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=K2R-krn&show_icons=true&theme=github_dark" />
+  <img src= "https://github-readme-stats.vercel.app/api/top-langs?username=k2r-krn&show_icons=true&locale=en&layout=compact&theme=github-dark" alt="k2r-krn"" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=K2R-krn&theme=github-dark" />
 </p>
 
