@@ -9,11 +9,12 @@
 
 ## 🚀 Constantly Building | Eagerly Exploring | Deeply Learning
 
-- ⚙️ **What I’m Building:** Backend-powered apps like [NumSight](https://github.com/K2R-krn/NumSight) and the [Syncronus Chat Platform](https://github.com/K2R-krn/Syncronus-project)  
+- ⚙️ **What I’m Building:** Backend-powered apps like [NumSight](https://github.com/K2R-krn/NumSight) and the [Syncronus Chat Platform](https://github.com/K2R-krn/Syncronus-project)
+- 🏢 **Worked Where It Mattered:** At orgs like **GottData** and **0to16**, I contributed to MVPs, implemented access control systems, and integrated BI tools — building things that actually shipped.
 - 📖 **What I’m Exploring:** Deep dives into **system design**, **API security**, and tooling with **Redis**, **Docker**, and **FastAPI**  
 - 🔗 **Check Out My Code:** Browse my full catalog on [GitHub](https://github.com/K2R-krn)—from real-time chat to LLM-driven chatbots  
-- ✉️ **Let’s Connect:** Shoot me a message at [krnsr.rthd@gmail.com](mailto:krnsr.rthd@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/karansinhrathod)  
-- 🎓 **My Journey So Far:** B.Tech in Computer Engineering (DTU ’25), internships @GottData & 0to16—delivered MVPs, BI integrations, and scalable REST APIs  
+- 🤝 **Let’s Connect:** Email me at [krnsr.rthd@gmail.com](mailto:krnsr.rthd@gmail.com) or say hi on [LinkedIn](https://www.linkedin.com/in/karansinhrathod)
+- 📁 **Want More?** Browse my [LinkedIn](https://www.linkedin.com/in/karansinhrathod) and [GitHub Repositories](https://github.com/K2R-krn) — real code, real thought process, real impact.
 - 🌱 **What’s Next:** Portfolio site in the works—system architecture write-ups, demo videos, and more  
 
 
