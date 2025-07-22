@@ -15,7 +15,7 @@
 - 📁 **Want More?** Browse my [LinkedIn](https://www.linkedin.com/in/karansinhrathod).
 - 🌱 **What’s Next:** Portfolio site in the works—system architecture write-ups, demo videos, and more  
 
-
+<h3 align="left">Lets Connect</h3>
 <p>
   <a href="https://www.linkedin.com/in/karansinhrathod/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
