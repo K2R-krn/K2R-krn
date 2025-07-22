@@ -10,7 +10,7 @@
 - 🏢 **Worked Where It Mattered:** At orgs like **GottData** and **0to16**, I contributed to MVPs, implemented access control systems, and integrated BI tools — building things that actually shipped.
 - 📖 **What I’m Exploring:** Deep dives into **system design**, **API security**, and tooling with **Redis**, **Docker**, and **FastAPI**  
 - 🔗 **Check Out My Code:** Browse my full catalog on [GitHub](https://github.com/K2R-krn) for latestest ventures.
-- 📝 ** Resume :** Check my professional [Read.me](https://drive.google.com/file/d/1nAt9kF_55CM6jxg1Aq-LxGdhR3GxWCVN/view)
+- 📝 **Resume :** Check my professional [Read.me](https://drive.google.com/file/d/1nAt9kF_55CM6jxg1Aq-LxGdhR3GxWCVN/view)
 - 🤝 **Let’s Connect:** Email me at [krnsr.rthd@gmail.com](mailto:krnsr.rthd@gmail.com).
 - 📁 **Want More?** Browse my [LinkedIn](https://www.linkedin.com/in/karansinhrathod).
 - 🌱 **What’s Next:** Portfolio site in the works—system architecture write-ups, demo videos, and more  
@@ -32,8 +32,8 @@
 
 <h3 align="left"> GitHub Stats </h3>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=K2R-krn&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K2R-krn&layout=compact&theme=midnight-purple&hide_border=true" alt="Top Languages" />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=K2R-krn&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K2R-krn&layout=compact&theme=midnight-purple&hide_border=true" alt="Top Languages" />
 </p>
 
 
