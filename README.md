@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=435&lines=Building+scalable+web+apps;Lover+of+clean+architecture;Open+to+SDE+roles+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-**🚀 Constantly Building | Eagerly Exploring | Deeply Learning
+## 🚀 Constantly Building | Eagerly Exploring | Continuously Learning
 
 - ⚙️ **What I’m Building:** Backend-powered apps like [NumSight](https://github.com/K2R-krn/NumSight) and the [Syncronus Chat Platform](https://github.com/K2R-krn/Syncronus-project)
 - 🏢 **Worked Where It Mattered:** At orgs like **GottData** and **0to16**, I contributed to MVPs, implemented access control systems, and integrated BI tools — building things that actually shipped.
