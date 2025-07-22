@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=435&lines=Building+scalable+web+apps;Lover+of+clean+architecture;Open+to+SDE+roles+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-<h3 align="left">🚀 Constantly Building | Eagerly Exploring | Continuously Learning</h3>
+<h3 align="left"> Constantly Building | Eagerly Exploring | Continuously Learning</h3>
 
 - ⚙️ **What I’m Building:** Backend-powered apps like [NumSight](https://github.com/K2R-krn/NumSight) and the [Syncronus Chat Platform](https://github.com/K2R-krn/Syncronus-project)
 - 🏢 **Worked Where It Mattered:** At orgs like **GottData** and **0to16**, I contributed to MVPs, implemented access control systems, and integrated BI tools — building things that actually shipped.
@@ -35,6 +35,12 @@
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=K2R-krn&theme=github-dark" />
   <img src= "https://github-readme-stats.vercel.app/api/top-langs?username=k2r-krn&show_icons=true&locale=en&layout=compact&theme=github-dark" alt="k2r-krn"" />
+</p>
+
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=K2R-krn&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K2R-krn&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 
