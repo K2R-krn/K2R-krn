@@ -4,7 +4,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=435&lines=Building+scalable+web+apps;Lover+of+clean+architecture;Open+to+SDE+roles+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-## 🚀 Constantly Building | Eagerly Exploring | Continuously Learning
+## 
+<h3 align="left">🚀 Constantly Building | Eagerly Exploring | Continuously Learning</h3>
 
 - ⚙️ **What I’m Building:** Backend-powered apps like [NumSight](https://github.com/K2R-krn/NumSight) and the [Syncronus Chat Platform](https://github.com/K2R-krn/Syncronus-project)
 - 🏢 **Worked Where It Mattered:** At orgs like **GottData** and **0to16**, I contributed to MVPs, implemented access control systems, and integrated BI tools — building things that actually shipped.
@@ -50,14 +51,6 @@
 [![LinkedIn](https://img.shields.io/badge/-karansinhrathod-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/karansinhrathod)](https://linkedin.com/in/karansinhrathod)
 [![Gmail](https://img.shields.io/badge/-krnsr.rthd@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:krnsr.rthd@gmail.com)
 
----
-
-
-
-<h1 align="center">Hey👋 Karan</h1>
-<h3 align="center">Love turning ideas into products. Always Curious, Always Improving</h3>
-
-- 🔭 Currently Focusing on projects like **NumSpy and Syncronus**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
