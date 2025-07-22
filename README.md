@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋, I'm Karansinh Rathod</h1>
-<h3 align="center">Full Stack Software Engineer | DTU '25 | Intern @GottData @0to16</h3>
+<h1>Hi 👋, I'm Karansinh Rathod</h1>
+<h3>Full Stack Software Engineer | DTU '25 | Intern @GottData @0to16</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=435&lines=Building+scalable+web+apps;Lover+of+clean+architecture;Open+to+SDE+roles+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
-
-## 🧑‍💻 About Me
 
 ## 🚀 Constantly Building | Eagerly Exploring | Deeply Learning
 
@@ -17,7 +15,6 @@
 - ✉️ **Let’s Connect:** Shoot me a message at [krnsr.rthd@gmail.com](mailto:krnsr.rthd@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/karansinhrathod)  
 - 🎓 **My Journey So Far:** B.Tech in Computer Engineering (DTU ’25), internships @GottData & 0to16—delivered MVPs, BI integrations, and scalable REST APIs  
 - 🌱 **What’s Next:** Portfolio site in the works—system architecture write-ups, demo videos, and more  
-
 
 
 ---
