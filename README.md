@@ -16,26 +16,6 @@
 - 🌱 **What’s Next:** Portfolio site in the works—system architecture write-ups, demo videos, and more  
 
 
----
-
-## 🚀 Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-
-
----
-<h3 align="left"> Let's Connect </h3>
 <p>
   <a href="https://www.linkedin.com/in/karansinhrathod/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -52,9 +32,9 @@
 
 <h3 align="left"> GitHub Stats </h3>
 
-<p align="center">
-  <img src= "https://github-readme-stats.vercel.app/api/top-langs?username=k2r-krn&show_icons=true&locale=en&layout=compact&theme=github-dark" alt="k2r-krn"" />
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=K2R-krn&theme=github-dark" />
+  <img src= "https://github-readme-stats.vercel.app/api/top-langs?username=k2r-krn&show_icons=true&locale=en&layout=compact&theme=github-dark" alt="k2r-krn"" />
 </p>
 
 
