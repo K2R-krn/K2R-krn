@@ -9,11 +9,16 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 B.Tech in Computer Engineering from **Delhi Technological University (DTU)** – Class of 2025  
-- 💻 **Full Stack Software Engineer** with hands-on experience in frontend & backend development  
-- 🛠️ Built and deployed apps using **React, Node.js, Django, Firebase, PostgreSQL, Tailwind CSS, Docker**  
-- 🧠 Passionate about system design, API architecture, and building scalable products  
-- 🌱 Currently open to **SDE / Backend / Full Stack Developer roles**
+## 🚀 Constantly Building | Eagerly Exploring | Deeply Learning
+
+- ⚙️ **What I’m Building:** Backend-powered apps like [NumSight](https://github.com/K2R-krn/NumSight) and the [Syncronus Chat Platform](https://github.com/K2R-krn/Syncronus-project)  
+- 📖 **What I’m Exploring:** Deep dives into **system design**, **API security**, and tooling with **Redis**, **Docker**, and **FastAPI**  
+- 🔗 **Check Out My Code:** Browse my full catalog on [GitHub](https://github.com/K2R-krn)—from real-time chat to LLM-driven chatbots  
+- ✉️ **Let’s Connect:** Shoot me a message at [krnsr.rthd@gmail.com](mailto:krnsr.rthd@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/karansinhrathod)  
+- 🎓 **My Journey So Far:** B.Tech in Computer Engineering (DTU ’25), internships @GottData & 0to16—delivered MVPs, BI integrations, and scalable REST APIs  
+- 🌱 **What’s Next:** Portfolio site in the works—system architecture write-ups, demo videos, and more  
+
+
 
 ---
 
