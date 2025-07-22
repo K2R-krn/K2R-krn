@@ -6,7 +6,7 @@
 
 <h3 align="left"> Constantly Building | Eagerly Exploring | Continuously Learning</h3>
 
-- ⚙️ **What I’m Building:** Backend-powered apps like [GetYourGuide](https://github.com/K2R-krn/tourism-chatbot-getyourguide) <a href="[https://your-link.com](https://github.com/K2R-krn/tourism-chatbot-getyourguide)" target="_blank"> GetYourGuide Project</a>
+- ⚙️ **What I’m Building:** Backend-powered apps like [GetYourGuide](https://github.com/K2R-krn/tourism-chatbot-getyourguide) <a href="[https://github.com/K2R-krn/tourism-chatbot-getyourguide]" target="_blank"> GetYourGuide Project</a>
 , [NumSight](https://github.com/K2R-krn/NumSight) and the [Syncronus Chat Platform](https://github.com/K2R-krn/Syncronus-project)
 - 🏢 **Worked Where It Mattered:** At orgs like **GottData** and **0to16**, I contributed to MVPs, implemented access control systems, and integrated BI tools — building things that actually shipped.
 - 📖 **What I’m Exploring:** Deep dives into **system design**, **API security**, and tooling with **Redis**, **Docker**, and **FastAPI**  
