@@ -47,7 +47,15 @@
 
 [![LinkedIn](https://img.shields.io/badge/-karansinhrathod-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/karansinhrathod)](https://linkedin.com/in/karansinhrathod)
 [![Gmail](https://img.shields.io/badge/-krnsr.rthd@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:krnsr.rthd@gmail.com)
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/karansinhrathod/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="mailto:krnsr.rthd@gmail.com" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" />
+  </a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
