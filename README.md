@@ -6,7 +6,6 @@
 
 <h3 align="left"> Constantly Building | Eagerly Exploring | Continuously Learning</h3>
 
-- ⚙️ **What I’m Building:** Backend-powered apps like [GetYourGuide](https://github.com/K2R-krn/tourism-chatbot-getyourguide), [NumSight](https://github.com/K2R-krn/NumSight) and the [Syncronus Chat Platform](https://github.com/K2R-krn/Syncronus-project)
 - ⚙️ <strong>What I’m Building:</strong> Backend-powered apps like 
 <a href="https://github.com/K2R-krn/tourism-chatbot-getyourguide" target="_blank">GetYourGuide</a>, 
 <a href="https://github.com/K2R-krn/NumSight" target="_blank">NumSight</a>, and 
